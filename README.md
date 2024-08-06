@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning JavaScript, Neovim, Docker, Linux VM, SQL, MongoDB, Java and React.
+- 💻 Enthusiastic about software development and always eager to expand my knowledge.
+- 📚 Constantly exploring new technologies and tools to enhance my coding skills.
 <!--
 **j0rry/j0rry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
